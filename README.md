@@ -19,7 +19,7 @@ Aqui você encontrará projetos abrangendo os principais tópicos de desenvolvim
 
 Os exercícios estão organizados com um prefixo numérico, para indicar a ordem em que foram feitos:
 
-| Ordem | Tema                              | Link |
+| Exercício | Tema                              | Link |
 |-------|-----------------------------------|------|
 | 01    | Introdução ao HTML                | [🔗 Acessar](https://github.com/ebac-frontend/01-exercicio-html) |
 | 02    | Exercício CSS                     | [🔗 Acessar](https://github.com/ebac-frontend/02-exercicio-css) |
@@ -49,6 +49,9 @@ Estou em constante evolução, buscando aprender e aplicar as melhores práticas
 - GitHub: [@eduarda-magnago](https://github.com/eduarda-magnago)
 - LinkedIn: [Eduarda Magnago](https://linkedin.com/in/eduarda-magnago)
 
+📩 Envie uma mensagem:
+- Email: eduardamagnago2@gmail.com
+  
 ---
 
 ## 🚀 Objetivo
