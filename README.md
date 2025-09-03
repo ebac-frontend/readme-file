@@ -1,4 +1,4 @@
-# 🧠 Exercícios do Curso Profissionalizante Engenheiro Front-End (EBAC)
+# 🧠 Exercícios do Curso Profissionalizante Engenheiro Front-End da EBAC
 
 Bem-vindo(a)! Este repositório reúne todos os exercícios práticos que desenvolvi ao longo do curso de **Engenheiro Front-End** da [EBAC](https://ebaconline.com.br/).
 
