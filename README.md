@@ -24,10 +24,10 @@ Os exercícios estão organizados com um prefixo numérico, para indicar a ordem
 | 00    | Versionamento de Código           | [🔗 Acessar](https://github.com/ebac-frontend/exercicio-git) |
 | 01    | Introdução ao HTML                | [🔗 Acessar](https://github.com/ebac-frontend/01-exercicio-html) |
 | 02    | Exercício CSS                     | [🔗 Acessar](https://github.com/ebac-frontend/02-exercicio-css) |
-| 03    | Projeto 01                        | [🔗 Acessar](https://github.com/ebac-frontend/03-project-bakery) |
+| 03    | Projeto 01 - Primeira Landing Page      | [🔗 Acessar](https://github.com/ebac-frontend/03-project-bakery) |
 | 04    | Construção de funções com o JavaScript  | [🔗 Acessar](https://github.com/ebac-frontend/04-function-js) |
 | 05    | Validação no JavaScript                 | [🔗 Acessar](https://github.com/ebac-frontend/05-exercicio-html-js) |
-| 06    | Agenda de Contatos                 | [🔗 Acessar](https://github.com/ebac-frontend/06-agenda-contatos) |
+| 06    | Projeto 02 - Agenda de Contatos  | [🔗 Acessar](https://github.com/ebac-frontend/06-agenda-contatos) |
 | 07    | Lista de Tarefas                 | [🔗 Acessar](https://github.com/ebac-frontend/07-lista-de-tarefas) |
 | 08    | Plugins jQuery                 | [🔗 Acessar](https://github.com/ebac-frontend/08-plugins-jquery) |
 | 09    | Fundamentos do CSS Responsivo  | [🔗 Acessar](https://github.com/ebac-frontend/09-css-responsivo) |
