@@ -21,6 +21,7 @@ Os exercícios estão organizados com um prefixo numérico, para indicar a ordem
 
 | Exercício | Tema                              | Link |
 |-------|-----------------------------------|------|
+| 00    | Versionamento de Código           | [🔗 Acessar](https://github.com/ebac-frontend/exercicio-git) |
 | 01    | Introdução ao HTML                | [🔗 Acessar](https://github.com/ebac-frontend/01-exercicio-html) |
 | 02    | Exercício CSS                     | [🔗 Acessar](https://github.com/ebac-frontend/02-exercicio-css) |
 | 03    | Projeto 01                        | [🔗 Acessar](https://github.com/ebac-frontend/03-project-bakery) |
